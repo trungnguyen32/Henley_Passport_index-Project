@@ -1,6 +1,7 @@
+# Reference: https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-09-09/readme.md?plain=1
 # Henley Passport Index Data
 
-This week we are exploring data from the [Henley Passport Index API](api.henleypassportindex.com/api/v3/countries). 
+[Henley Passport Index API](api.henleypassportindex.com/api/v3/countries). 
 The [Henley Passport Index](https://www.henleyglobal.com/passport-index/about) is produced by Henley & Partners and captures 
 the number of countries to which travelers in possession of each passport in the world may enter visa free. 
 
